@@ -1,0 +1,23 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "abraham/twitteroauth": "^2.0",
+        "ext-xml": "*",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "synthex\\megaquiz\\": ["src", "test"]
+        }
+    },
+    "name": "synthex/megaquiz",
+    "description": "a truly mega quiz",
+    "authors": [
+        {
+        "name": "Vitaliy Semenov",
+        "email": "synthex@bk.ru"
+        }
+    ]
+}
