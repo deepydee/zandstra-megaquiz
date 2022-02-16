@@ -19,5 +19,6 @@
         "name": "Vitaliy Semenov",
         "email": "synthex@bk.ru"
         }
-    ]
+    ],
+    "license": "Apache-2.0"
 }
